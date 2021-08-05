@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lokeshprasanth
-- 👀 I’m interested in cybersecurity and became full stack ..
+- 👀 I’m interested in cybersecurity and to be a full stack developer ..
 - 🌱 I’m currently learning JavaScript...
 - 💞️ I’m looking to collaborate on well reputed company ...
 - 📫 contact me lokeshgadesula14@gmail.com
