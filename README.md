@@ -1,8 +1,4 @@
-👋 Hey there, I'm Lokeshprasanth
-lovestring <- "I love programming!" 
-print ( lovestring)
-Deeply addicted to Dark. 
-. Find me here 👉🧍‍♂️ lokeshprasanth.me 👋
+👋 Hey there, I'm Lokeshprasanth. "Let's make like Dijkstra's and find the shortest path between Work and Time (:". Deeply addicted to Dark. Find me here 👉🧍‍♂️ lokeshprasanth.me
 
 
 - 👋 Hi, I’m @lokeshprasanth.
