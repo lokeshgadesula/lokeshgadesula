@@ -1,7 +1,7 @@
-👋 Hey there, I'm Lokeshprasanth. "Let's make like Dijkstra's and find the shortest path between Work and Time 😊". Deeply addicted to Dark. Find me here 👉🧍‍♂️ https://lokeshprasanth.me
+👋 Hey there, I'm Lokeshprasanth. "Let's make like Dijkstra's and find the shortest path between Work and Time 😊". Deeply addicted to Dark. Find me here 👇
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://lokeshprasanth.me)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/lokesh_prashant)
 
 
 - 👋 Hi, I’m @lokeshprasanth.
