@@ -15,7 +15,6 @@
 lokeshgadesula/lokeshgadesula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<br /> 
 ### Languages and Tools:
 [<img align="left" alt="codeSTACKr | globe" width="26px" src="worldwide.png" />][website]
 [<img align="left" alt="codeSTACKr | Instagram" width="55px" src="Instagram-Glyph-Color-Logo.wine.svg" />][instagram]
