@@ -15,7 +15,7 @@
 lokeshgadesula/lokeshgadesula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-### Languages and Tools:
+@ Connect with me:
 [<img align="left" alt="codeSTACKr | globe" width="26px" src="worldwide.png" />][website]
 [<img align="left" alt="codeSTACKr | Instagram" width="55px" src="Instagram-Glyph-Color-Logo.wine.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="54px" src="LinkedIn-Icon-Logo.wine.svg" />][linkedin]
@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 [linkedin]: https://www.linkedin.com/in/gadesula-lokeshprasanth-701682214/
 
 <br />
-### Languages and Tools:
+# Languages and Tools:
 <img align="left" alt="HTML5" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
