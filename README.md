@@ -16,7 +16,7 @@ lokeshgadesula/lokeshgadesula is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="55px" src="YouTube-Icon-White-Logo.wine.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | YouTube" width="55px" src="YouTube-Icon-Full-Color-Logo.wine.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="55px" src="Twitter-Logo.wine.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="55px" src="LinkedIn-Icon-Logo.wine.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="55px" src="Instagram-Glyph-Color-Logo.wine.svg" />][instagram]
