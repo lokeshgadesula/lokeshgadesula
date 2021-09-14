@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 [instagram]: https://www.instagram.com/lokesh_prashanth_
 [linkedin]: https://www.linkedin.com/in/gadesula-lokeshprasanth-701682214/
 
-
+<br />
 <br />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
