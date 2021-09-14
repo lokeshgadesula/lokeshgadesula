@@ -15,11 +15,14 @@
 lokeshgadesula/lokeshgadesula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
 [<img align="left" alt="codeSTACKr | globe" width="26px" src="worldwide.png" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="53px" src="YouTube-Icon-Full-Color-Logo.wine.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="54px" src="Twitter-Logo.wine.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="54px" src="LinkedIn-Icon-Logo.wine.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="55px" src="Instagram-Glyph-Color-Logo.wine.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="54px" src="LinkedIn-Icon-Logo.wine.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Twitter" width="54px" src="Twitter-Logo.wine.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | YouTube" width="53px" src="YouTube-Icon-Full-Color-Logo.wine.svg" />][youtube]
+
+
 
 [website]: https://lokeshprasanth.me
 [twitter]: https://twitter.com/lokesh_prashant
