@@ -1,6 +1,6 @@
 👋 Hey there, I'm Lokeshprasanth. "Let's make like Dijkstra's and find the shortest path between Work and Time 😊". Deeply addicted to Dark. Find me here 👇
 
-[![Website](https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Flokeshprasanth.me)](https://lokeshprasanth.me)
+[![Website](https://img.shields.io/website?down_color=red&down_message=offline&label=Lokeshprasanth&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Flokeshprasanth.me)](https://lokeshprasanth.me)
 [![Twitter Follow](https://img.shields.io/twitter/url?label=Lokeshprasanth&style=social&url=https%3A%2F%2Ftwitter.com%2Flokesh_prashant)](https://twitter.com/lokesh_prashant)
 
 
