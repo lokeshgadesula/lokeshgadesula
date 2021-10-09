@@ -9,7 +9,7 @@
 - 👀 I’m interested in cybersecurity and webdesigning..
 - 🌱 I’m currently learning Python & JavaScript...
 - 🤭 Intrested to explore space and No gravity areas.
-- 💞️ I’m looking to collaborate with well reputed company.
+- 💞️ I’m looking to collaborate.
 - 💪 If you are good at something. Never do it for free. 
 - 📫 Contact me lokeshgadesula14@gmail.com.
 
