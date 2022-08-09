@@ -6,10 +6,10 @@
 
 - 👋 Hi, I’m @lokeshprasanth.
 - 👀 I’m interested in cybersecurity and webdesigning..
-- 🌱 I’m currently learning Python & JavaScript...
+- 🌱 I’m currently expanding my skills Python, Java & JavaScript.
 - 🤭 Intrested to explore space and No gravity areas.
 - 💞️ I’m looking to collaborate.
-- 💪 If you are good at something. Never do it for free. 
+- 💪 If you are good at something, Never do it for free. 
 - 📫 Contact me lokeshgadesula14@gmail.com.
 
 ### Connect with me:
@@ -41,6 +41,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
+<br/>
 <br/>
 <details>
 
