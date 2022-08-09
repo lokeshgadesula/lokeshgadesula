@@ -1,6 +1,5 @@
 👋 Hey there, I'm Lokeshprasanth. "Let's make like Dijkstra's and find the shortest path between Work and Time 😊". Ready to collaborate. Find me here 👇
 
-[![Website](https://img.shields.io/website?down_color=red&down_message=offline&label=Lokeshprasanth&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Flokeshprasanth.me)](https://lokeshprasanth.me)
 [![Twitter Follow](https://img.shields.io/twitter/url?color=green&label=follow%20%40lokesh_prasanth&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Flokesh_prashant)](https://twitter.com/lokesh_prashant)
 
 <img align="right" alt="GIF" src="lokesh.gif" width="450" height="320" />
@@ -42,6 +41,9 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
+- name: Profile Readme Stats
+  uses: teoxoy/profile-readme-stats@v1.2
+
 
 
 
