@@ -51,9 +51,9 @@
 
 ![Lokesh github stats](https://github-readme-stats.vercel.app/api?username=lokeshgadesula&theme=radical&show_icons=true&count_private=true)
 <br />
-![Nithin Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lokeshgadesula&theme=monokai)
-![Nithin Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lokeshgadesula&theme=monokai)
-![Nithin Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lokeshgadesula&theme=monokai)
+![Lokesh Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lokeshgadesula&theme=monokai)
+![Lokesh Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lokeshgadesula&theme=monokai)
+![Lokesh Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lokeshgadesula&theme=monokai)
 
 </details>
 
