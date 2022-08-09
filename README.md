@@ -41,9 +41,19 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
-- name: Profile Readme Stats
-  uses: teoxoy/profile-readme-stats@v1.2
+<details>
 
+<summary>:zap: GitHub Stats</summary>
+
+---
+
+![Lokesh github stats](https://github-readme-stats.vercel.app/api?username=lokeshgadesula&theme=radical&show_icons=true&count_private=true)
+<br />
+![Nithin Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lokeshgadesula&theme=monokai)
+![Nithin Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lokeshgadesula&theme=monokai)
+![Nithin Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lokeshgadesula&theme=monokai)
+
+</details>
 
 
 
