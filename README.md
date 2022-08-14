@@ -1,4 +1,4 @@
-👋 Hey there, I'm Lokeshprasanth. "Let's make like Dijkstra's and find the shortest path between Work and Time 😊". Ready to collaborate. Find me here https://lokeshprasanth.tech
+👋 Hey there, I'm Lokeshprasanth. "Let's make like Dijkstra's and find the shortest path between Work and Time 😊". Ready to collaborate. Find me here [website]
 
 [![Twitter Follow](https://img.shields.io/twitter/url?color=green&label=follow%20%40lokesh_prasanth&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Flokesh_prashant)](https://twitter.com/lokesh_prashant)
 
@@ -19,7 +19,7 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="54px" src="Twitter-Logo.wine.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | YouTube" width="53px" src="YouTube-Icon-Full-Color-Logo.wine.svg" />][youtube]
 
-[website]: https://lokeshprasanth.me
+[website]: https://lokeshprasanth.tech
 [twitter]: https://twitter.com/lokesh_prashant
 [youtube]: https://www.youtube.com/channel/UCJTRuNGKg0md1L6bCB-JMXQ
 [instagram]: https://www.instagram.com/lokesh_prashanth_
