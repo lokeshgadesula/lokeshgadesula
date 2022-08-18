@@ -14,7 +14,7 @@ Ready to collaborate, Find me here. [@Lokeshprasanth]
 - 📫 Contact me lokeshgadesula14@gmail.com.
 
 ### Connect with me:
-[<img align="left" alt="codeSTACKr | globe" width="26px" src="worldwide.png" />][website]
+[<img align="left" alt="codeSTACKr | globe" width="26px" src="worldwide.png" />][@lokeshprasanth]
 [<img align="left" alt="codeSTACKr | Instagram" width="55px" src="Instagram-Glyph-Color-Logo.wine.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="54px" src="LinkedIn-Icon-Logo.wine.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Twitter" width="54px" src="Twitter-Logo.wine.svg" />][twitter]
