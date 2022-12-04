@@ -41,7 +41,7 @@ Ready to collaborate, Find me here. [@Lokeshprasanth]
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="<i class="fa fa-github" aria-hidden="true"></i>" />
+<img align="left" alt="GitHub" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Fpng-computer-icons-logo-portable-network-graphics-clip-6362014%2F&psig=AOvVaw2iXrOfzVO2LAyKxoUlq-5q&ust=1670250912669000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKjCq9SX4PsCFQAAAAAdAAAAABAg" />
 
 <br />
 <br/>
