@@ -16,7 +16,7 @@ Ready to collaborate, Find me here. [@Lokeshprasanth]
 - 📫 Contact me lokeshgadesula14@gmail.com.
 
 ### Connect with me:
-[<img align="left" alt="codeSTACKr | globe" width="24px" src="worldwide.png" />][@lokeshprasanth]
+[<img align="left" alt="codeSTACKr | globe" width="29px" src="worldwide.png" />][@lokeshprasanth]
 [<img align="left" alt="codeSTACKr | Instagram" width="55px" src="Instagram-Glyph-Color-Logo.wine.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="54px" src="LinkedIn-Icon-Logo.wine.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Twitter" width="54px" src="Twitter-Logo.wine.svg" />][twitter]
@@ -41,7 +41,7 @@ Ready to collaborate, Find me here. [@Lokeshprasanth]
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="40px" src="logo.png" />
+<!---<img align="left" alt="GitHub" width="40px" src="logo.png" /> --->
 
 <br />
 <br/>
