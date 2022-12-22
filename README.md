@@ -9,7 +9,7 @@ Ready to collaborate, Find me here. [@Lokeshprasanth]
 
 - 👋 Hi, I’m @lokeshprasanth.
 - 👀 I’m interested in cybersecurity and webdesigning..
-- 🌱 I’m currently expanding my skills Python, Java & JavaScript.
+- 🌱 I’m currently expanding my skills in Python, Java & JavaScript.
 - 🤭 Intrested to explore space and No gravity areas.
 - 💞️ I’m looking to collaborate.
 - 💪 If you are good at something, Never do it for free. 
