@@ -22,7 +22,7 @@ Ready to collaborate, Find me here. [@Lokeshprasanth]
 [<img align="left" alt="codeSTACKr | Twitter" width="54px" src="Twitter-Logo.wine.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | YouTube" width="53px" src="YouTube-Icon-Full-Color-Logo.wine.svg" />][youtube]
 
-[@Lokeshprasanth]: https://lokeshprasanth.tech
+[@Lokeshprasanth]: https://imlokesh.me
 [twitter]: https://twitter.com/lokesh_prashant
 [youtube]: https://www.youtube.com/channel/UCJTRuNGKg0md1L6bCB-JMXQ
 [instagram]: https://www.instagram.com/lokesh_prashanth_
