@@ -1,7 +1,7 @@
 👋 Hey there, I'm Lokeshprasanth. "Everyone should learn how to code, it teaches you how to think 😊". <br>
 Ready to collaborate, Find me here. [@Lokeshprasanth]
 
-[![Twitter Follow](https://img.shields.io/twitter/url?color=green&label=follow%20%40lokesh_prasanth&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Flokesh_prashant)](https://twitter.com/lokesh_prashant)
+[![Twitter Follow](https://img.shields.io/twitter/url?color=green&label=follow%20%40lokesh_prasanth&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Flokesh_prashant)](imlokesh.me)
 
 <img align="right" alt="GIF" src="lokesh.gif" width="450" height="320" />
 
@@ -21,9 +21,6 @@ Ready to collaborate, Find me here. [@Lokeshprasanth]
 [<img align="left" alt="codeSTACKr | YouTube" width="53px" src="YouTube-Icon-Full-Color-Logo.wine.svg" />][youtube]
 
 [@Lokeshprasanth]: https://imlokesh.me
-[twitter]: https://twitter.com/lokesh_prashant
-[youtube]: https://www.youtube.com/channel/UCJTRuNGKg0md1L6bCB-JMXQ
-[instagram]: https://www.instagram.com/lokesh_prashanth_
 [linkedin]: https://www.linkedin.com/in/gadesula-lokeshprasanth-701682214/
 
 <br />
