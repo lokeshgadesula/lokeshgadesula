@@ -9,7 +9,7 @@ Ready to collaborate.
 - 📊 I develop ETL pipelines, dashboards, and APIs using PySpark, Django, FastAPI & Tableau.
 - 🚀 I'm excited about AI/ML, real-time data processing, and DevOps automation.
 - 🌍 Let’s turn innovative ideas into powerful tech.
-- 📫 Contact me: lokeshprasanth995@gmail.com | +1-314-798-2093 | imlokesh.me
+- 📫 Contact me: lokeshprasanth995@gmail.com
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | globe" width="29px" src="worldwide.png" />][@Lokeshprasanth]
