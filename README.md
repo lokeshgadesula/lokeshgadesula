@@ -1,70 +1,63 @@
-# 👋 Hey there, I'm Lokeshprasanth
+👋 Hey there, I'm Lokeshprasanth. "Everyone should learn how to code, it teaches you how to think 😊". <br>
+Ready to collaborate, Find me here. [@Lokeshprasanth]
 
-🚀 Python Developer | Cloud Engineer | AI & Data Enthusiast  
-_"Everyone should learn how to code — it teaches you how to think."_ 😊  
+[![Twitter Follow](https://img.shields.io/twitter/url?color=green&label=follow%20%40lokesh_prasanth&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Flokesh_prashant)](https://twitter.com/lokesh_prashant)
 
-![GIF](lokesh.gif)
+<img align="right" alt="GIF" src="lokesh.gif" width="450" height="320" />
 
-🔗 **Find me here**: [🌐 imlokesh.me](https://imlokesh.me) • [📧 Email](mailto:lokeshprasanth995@gmail.com) • [📞 +1-314-798-2093](tel:+13147982093)
+- 👋 Hi, I’m @lokeshprasanth.
+- 💻 I’m a Python Developer with 4+ years of experience in scalable backend systems.
+- ☁️ I build and deploy on AWS & Azure using Terraform, Docker, and Kubernetes.
+- 📊 I develop ETL pipelines, dashboards, and APIs using PySpark, Django, FastAPI & Tableau.
+- 🚀 I'm excited about AI/ML, real-time data processing, and DevOps automation.
+- 🌍 Let’s turn innovative ideas into powerful tech.
+- 📫 Contact me: lokeshprasanth995@gmail.com | +1-314-798-2093
 
----
+### Connect with me:
+[<img align="left" alt="codeSTACKr | globe" width="29px" src="worldwide.png" />][@Lokeshprasanth]
+[<img align="left" alt="codeSTACKr | Instagram" width="55px" src="Instagram-Glyph-Color-Logo.wine.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="54px" src="LinkedIn-Icon-Logo.wine.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Twitter" width="54px" src="Twitter-Logo.wine.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | YouTube" width="53px" src="YouTube-Icon-Full-Color-Logo.wine.svg" />][youtube]
 
-### 👨‍💻 About Me
-- 💻 I specialize in **Python development**, building scalable apps with Django, Flask & FastAPI.
-- 🌩️ Experienced in **Cloud Infrastructure** – AWS & Azure (EC2, S3, RDS, Terraform, Docker, Kubernetes).
-- 🔄 Built robust **ETL/Data Pipelines** using PySpark, Airflow, Snowflake, Redshift, Glue.
-- 📊 Skilled in **Data Visualization** – Tableau & Power BI for actionable business insights.
-- 🌱 Passionate about learning **AI/ML**, backend systems, and real-time analytics.
-- 🤝 Let's collaborate on solving real-world challenges using code!
+[@Lokeshprasanth]: https://imlokesh.me
+[twitter]: https://twitter.com/lokesh_prashant
+[youtube]: https://www.youtube.com/channel/UCJTRuNGKg0md1L6bCB-JMXQ
+[instagram]: https://www.instagram.com/lokesh_prashanth_
+[linkedin]: https://www.linkedin.com/in/gadesula-lokeshprasanth-701682214/
 
----
+<br />
 
-### 🔧 Technical Toolkit
+### Languages and Tools:
+<img align="left" alt="HTML5" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" />
+<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/kubernetes/kubernetes.png" />
+<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png" />
+<img align="left" alt="Azure" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/azure/azure.png" />
 
-**Languages:** Python, C++, GoLang, Java, SQL, Shell Script, PHP  
-**Frameworks:** Django, Flask, React.js, AngularJS, FastAPI  
-**Cloud:** AWS (EC2, S3, RDS, Lambda, Glue, EMR, ECS, Athena), Azure, Terraform, Kubernetes  
-**Databases:** MySQL, PostgreSQL, MongoDB, Cassandra, Snowflake, Redshift  
-**Big Data & ETL:** Hadoop, PySpark, Apache Kafka, Airflow  
-**DevOps:** Docker, Jenkins, GitHub Actions, CI/CD, Git  
-**Visualization:** Tableau, Power BI  
-**Web:** HTML5, CSS3, JS, jQuery, Bootstrap  
-**ML/AI:** Scikit-learn, TensorFlow, OpenCV, Keras, PyTorch  
-
----
-
-### 💼 Professional Snapshot
-
-**🔸 Cybersoft Technologies (USA)** – _Python Developer (Sep 2023 - Present)_  
-Built RESTful backends using FastAPI, automated CI/CD with Azure DevOps, and handled large-scale PySpark data pipelines with real-time Kafka streaming.
-
-**🔸 Zognu (India)** – _Python Developer & Cloud Intern (Sep 2022 - Jul 2023)_  
-Built scalable apps with Django, deployed via Docker & AWS ECS, and implemented ETL with AWS Glue, Redshift, Athena.
-
-**🔸 NullClass (India)** – _Python Developer & AI Intern (Sep 2020 - Aug 2022)_  
-Worked on full-stack apps, cloud deployment (ECS, Lambda), real-time analytics, and built CLI tools with GoLang.
-
-**🔸 Edusera (India)** – _Python Developer (Sep 2019 - Aug 2020)_  
-Developed dashboards with Django, built RESTful APIs, and managed AWS infrastructure with Terraform and Heroku.
-
----
-
-### 🌐 Let's Connect
-
-[<img alt="Website" width="30px" src="worldwide.png" />](https://imlokesh.me)
-[<img alt="Instagram" width="30px" src="Instagram-Glyph-Color-Logo.wine.svg" />](https://www.instagram.com/lokesh_prashanth_)
-[<img alt="LinkedIn" width="30px" src="LinkedIn-Icon-Logo.wine.svg" />](https://www.linkedin.com/in/gadesula-lokeshprasanth-701682214/)
-[<img alt="Twitter" width="30px" src="Twitter-Logo.wine.svg" />](https://twitter.com/lokesh_prashant)
-[<img alt="YouTube" width="30px" src="YouTube-Icon-Full-Color-Logo.wine.svg" />](https://www.youtube.com/channel/UCJTRuNGKg0md1L6bCB-JMXQ)
-
----
-
+<br />
+<br/>
+<br/>
 <details>
-<summary>📈 GitHub Stats</summary>
 
-![Lokesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lokeshgadesula&theme=radical&show_icons=true&count_private=true)  
-![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lokeshgadesula&theme=monokai)  
-![Commit Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lokeshgadesula&theme=monokai)  
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lokeshgadesula&theme=monokai)
+<summary>:zap: GitHub Stats</summary>
+
+---
+
+![Lokesh github stats](https://github-readme-stats.vercel.app/api?username=lokeshgadesula&theme=radical&show_icons=true&count_private=true)
+<br />
+![Lokesh Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lokeshgadesula&theme=monokai)
+![Lokesh Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lokeshgadesula&theme=monokai)
+![Lokesh Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lokeshgadesula&theme=monokai)
 
 </details>
