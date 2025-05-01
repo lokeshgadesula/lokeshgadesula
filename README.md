@@ -1,23 +1,19 @@
-👋 Hey there, I'm Lokeshprasanth. "Everyone should learn how to code, it teaches you how to think 😊". <br>
+"Everyone should learn how to code, it teaches you how to think 😊". <br>
 Ready to collaborate.
-
-
 <img align="right" alt="GIF" src="lokesh.gif" width="450" height="320" />
 
-- 👋 Hi, I’m @lokeshprasanth.
+- 👋 Hi, I’m Lokeshprasanth Gadesula.
 - 💻 I’m a Python Developer with 4+ years of experience in scalable backend systems.
 - ☁️ I build and deploy on AWS & Azure using Terraform, Docker, and Kubernetes.
 - 📊 I develop ETL pipelines, dashboards, and APIs using PySpark, Django, FastAPI & Tableau.
 - 🚀 I'm excited about AI/ML, real-time data processing, and DevOps automation.
 - 🌍 Let’s turn innovative ideas into powerful tech.
-- 📫 Contact me: lokeshprasanth995@gmail.com | +1-314-798-2093
+- 📫 Contact me: lokeshprasanth995@gmail.com | +1-314-798-2093 | imlokesh.me
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | globe" width="29px" src="worldwide.png" />][@Lokeshprasanth]
-[<img align="left" alt="codeSTACKr | Instagram" width="55px" src="Instagram-Glyph-Color-Logo.wine.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="54px" src="LinkedIn-Icon-Logo.wine.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Twitter" width="54px" src="Twitter-Logo.wine.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | YouTube" width="53px" src="YouTube-Icon-Full-Color-Logo.wine.svg" />][youtube]
+
 
 [@Lokeshprasanth]: https://imlokesh.me
 [linkedin]: https://www.linkedin.com/in/gadesula-lokeshprasanth-701682214/
