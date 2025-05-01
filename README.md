@@ -1,4 +1,5 @@
 "Everyone should learn how to code, it teaches you how to think 😊". <br>
+
 Ready to collaborate.
 <img align="right" alt="GIF" src="lokesh.gif" width="450" height="320" />
 
@@ -44,10 +45,6 @@ Ready to collaborate.
 
 <summary>:zap: GitHub Stats</summary>
 
----
-
-![Lokesh github stats](https://github-readme-stats.vercel.app/api?username=lokeshgadesula&theme=radical&show_icons=true&count_private=true)
-<br />
 ![Lokesh Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lokeshgadesula&theme=monokai)
 ![Lokesh Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lokeshgadesula&theme=monokai)
 ![Lokesh Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lokeshgadesula&theme=monokai)
