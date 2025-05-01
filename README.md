@@ -16,7 +16,7 @@ Ready to collaborate.
 
 
 [@Lokeshprasanth]: https://imlokesh.me
-[linkedin]: https://www.linkedin.com/in/gadesula-lokeshprasanth-701682214/
+[linkedin]: https://www.linkedin.com/in/lokeshprasanth-gadesula-701682214/
 
 <br />
 
