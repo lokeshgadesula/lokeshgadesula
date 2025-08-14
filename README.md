@@ -4,7 +4,7 @@ Ready to collaborate.
 <img align="right" alt="GIF" src="lokesh.gif" width="450" height="320" />
 
 - 👋 Hi, I’m Lokeshprasanth Gadesula.
-- 💻 I’m a Python Developer with 4+ years of experience in scalable backend systems.
+- 💻 I’m a Software Engineer with 5+ years of experience in scalable backend systems.
 - ☁️ I build and deploy on AWS & Azure using Terraform, Docker, and Kubernetes.
 - 📊 I develop ETL pipelines, dashboards, and APIs using PySpark, Django, FastAPI & Tableau.
 - 🚀 I'm excited about AI/ML, real-time data processing, and DevOps automation.
