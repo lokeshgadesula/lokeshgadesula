@@ -4,11 +4,11 @@ Ready to collaborate.
 <img align="right" alt="GIF" src="lokesh.gif" width="450" height="320" />
 
 - 👋 Hi, I’m Lokeshprasanth Gadesula.
-- 💻 I’m a Software Engineer with 5+ years of experience in scalable backend systems.
-- ☁️ I build and deploy on AWS & Azure using Terraform, Docker, and Kubernetes.
-- 📊 I develop ETL pipelines, dashboards, and APIs using PySpark, Django, FastAPI & Tableau.
-- 🚀 I'm excited about AI/ML, real-time data processing, and DevOps automation.
-- 🌍 Let’s turn innovative ideas into powerful tech.
+- 💻 Software Engineer specializing in scalable backend systems and distributed platforms
+- ☁️ Experience building cloud-native systems on AWS using Terraform, Docker, and Kubernetes
+- 📊 Focused on data pipelines, APIs, and real-time systems using Python, Spark, Kafka, and Airflow
+- 🚀 Passionate about AI/ML systems, LLM evaluation, and infrastructure automation
+- 🌍 Interested in turning complex ideas into scalable, production-ready systems
 - 📫 Contact me: lokeshprasanth995@gmail.com
 
 ### Connect with me:
