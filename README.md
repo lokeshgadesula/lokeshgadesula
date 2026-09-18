@@ -1,52 +1,61 @@
-"Everyone should learn how to code, it teaches you how to think 😊". <br>
+<div align="center">
 
-Ready to collaborate.
-<img align="right" alt="GIF" src="lokesh.gif" width="450" height="320" />
+# Lokeshprasanth Gadesula
 
-- 👋 Hi, I’m Lokeshprasanth Gadesula.
-- 💻 Software Engineer specializing in scalable backend systems and distributed platforms
-- ☁️ Experience building cloud-native systems on AWS using Terraform, Docker, and Kubernetes
-- 📊 Focused on data pipelines, APIs, and real-time systems using Python, Spark, Kafka, and Airflow
-- 🚀 Passionate about AI/ML systems, LLM evaluation, and infrastructure automation
-- 🌍 Interested in turning complex ideas into scalable, production-ready systems
-- 📫 Contact me: lokeshprasanth995@gmail.com
+**Senior Software & Applied AI Engineer** Distributed Systems • LLM Evaluation & Agentic Workflows • Data Infrastructure
 
-### Connect with me:
-[<img align="left" alt="codeSTACKr | globe" width="29px" src="worldwide.png" />][@Lokeshprasanth]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="54px" src="LinkedIn-Icon-Logo.wine.svg" />][linkedin]
+[![Portfolio](https://img.shields.io/badge/Portfolio-imlokesh.me-0A66C2?style=flat-square&logo=google-chrome&logoColor=white)](https://imlokesh.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lokeshprasanth_Gadesula-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lokeshprasanth-gadesula-701682214/)
+[![Email](https://img.shields.io/badge/Email-lokeshprasanth995%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lokeshprasanth995@gmail.com)
 
+</div>
 
-[@Lokeshprasanth]: https://imlokesh.me
-[linkedin]: https://www.linkedin.com/in/lokeshprasanth-gadesula-701682214/
+---
 
-<br />
+### ⚡ Engineering Focus
 
-### Languages and Tools:
-<img align="left" alt="HTML5" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" />
-<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/kubernetes/kubernetes.png" />
-<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png" />
-<img align="left" alt="Azure" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/azure/azure.png" />
+<img align="right" alt="System Architecture GIF" src="lokesh.gif" width="380" />
 
-<br />
-<br/>
-<br/>
-<details>
+- 🤖 **Applied AI & LLM Systems:** Architecting automated evaluation pipelines, synthetic benchmark datasets, tool-calling validation, and agentic workflows.
+- ⚙️ **Distributed & Platform Engineering:** Building resilient, low-latency microservices and asynchronous backend systems in Python, Go, and C++.
+- 🌊 **Data & Streaming Infrastructure:** Designing high-throughput batch and stream processing pipelines with Apache Spark, Kafka, Airflow, and AWS.
+- ☁️ **Cloud Architecture & DevOps:** Provisioning containerized, observable cloud environments using AWS, Docker, Kubernetes, and Terraform.
 
-<summary>:zap: GitHub Stats</summary>
+<br clear="right"/>
 
-![Lokesh Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lokeshgadesula&theme=monokai)
-![Lokesh Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lokeshgadesula&theme=monokai)
-![Lokesh Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lokeshgadesula&theme=monokai)
+---
+
+### 🛠️ Core Tech Stack
+
+### 📊 Tech Ecosystem Badges
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Spark" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Airflow" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
+</p>
+
+---
+
+<details open>
+<summary>📈 <b>Engineering Activity & Metrics</b></summary>
+<br>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lokeshgadesula&theme=monokai" alt="Lokesh Summary" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lokeshgadesula&theme=monokai" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lokeshgadesula&theme=monokai" alt="Commit Language" />
+</div>
 
 </details>
