@@ -14,7 +14,6 @@
 
 ### ⚡ Engineering Focus
 
-<img align="right" alt="System Architecture GIF" src="lokesh.gif" width="380" />
 
 - 🤖 **Applied AI & LLM Systems:** Architecting automated evaluation pipelines, synthetic benchmark datasets, tool-calling validation, and agentic workflows.
 - ⚙️ **Distributed & Platform Engineering:** Building resilient, low-latency microservices and asynchronous backend systems in Python, Go, and C++.
